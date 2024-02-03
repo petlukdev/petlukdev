@@ -35,20 +35,3 @@
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="64">
-
-<br>
-
-## ⚡️ Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=petlukdev&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=petlukdev&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petlukdev&layout=compact" alt="Most Used Languages Statistics"/>
-</picture>
-<img src="https://komarev.com/ghpvc/?username=petlukdev&style=for-the-badge" alt="Profile View Stats">
