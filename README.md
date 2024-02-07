@@ -16,7 +16,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="64">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="C#" height="64">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" height="64">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" height="64">
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 
