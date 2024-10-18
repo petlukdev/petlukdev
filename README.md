@@ -1,9 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=2000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=1500&height=250&lines=Hi+there!+%F0%9F%91%8B;My+name's+Peter.;Welcome+on+my+profile!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=2000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=1500&height=250&lines=Hi+there!+%F0%9F%91%8B;My+name's+Peter.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <br>
 
-- 💻 I'm currently focusing on web development
-- 📝 Getting ready to go to college
+- 🎓 I'm currently studying at **University of Pardubice, Faculty of Electrical Engineering and Computer Science**
 - 📢 I am always open to suggestions, ideas and comments
 - 🎉 Fun facts
   - 🎮 I like to play video games
@@ -17,13 +16,12 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="C#" height="64">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" height="64">
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 ### 📖 I am learning
 
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 ### 🔎 I want to learn
 
@@ -31,6 +29,5 @@
 ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" height="64">
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="64">
